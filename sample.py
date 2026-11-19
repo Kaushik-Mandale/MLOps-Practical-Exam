@@ -1,2 +1,2 @@
-print("Hello MLOps Practical")
-print("Git Repository Created Successfully")
+print("Feature branch created successfully")
+print("MLOps practical examination - TY AIML G4")
